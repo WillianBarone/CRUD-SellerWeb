@@ -1,14 +1,89 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Projetos\\Projetos C#\\SalesMVC\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8476911-1747-4DD4-B41D-B3B411CA8B13}|SalesMVC\\SalesMVC.csproj|d:\\projetos\\projetos c#\\salesmvc\\salesmvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8476911-1747-4DD4-B41D-B3B411CA8B13}|SalesMVC\\SalesMVC.csproj|solutionrelative:salesmvc\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8476911-1747-4DD4-B41D-B3B411CA8B13}|SalesMVC\\SalesMVC.csproj|d:\\projetos\\projetos c#\\salesmvc\\salesmvc\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8476911-1747-4DD4-B41D-B3B411CA8B13}|SalesMVC\\SalesMVC.csproj|solutionrelative:salesmvc\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8476911-1747-4DD4-B41D-B3B411CA8B13}|SalesMVC\\SalesMVC.csproj|d:\\projetos\\projetos c#\\salesmvc\\salesmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8476911-1747-4DD4-B41D-B3B411CA8B13}|SalesMVC\\SalesMVC.csproj|solutionrelative:salesmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8476911-1747-4DD4-B41D-B3B411CA8B13}|SalesMVC\\SalesMVC.csproj|d:\\projetos\\projetos c#\\salesmvc\\salesmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8476911-1747-4DD4-B41D-B3B411CA8B13}|SalesMVC\\SalesMVC.csproj|solutionrelative:salesmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 708,
+          "DockedWidth": 841,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projetos\\Projetos C#\\SalesMVC\\SalesMVC\\Views\\Departments\\Index.cshtml",
+              "RelativeDocumentMoniker": "SalesMVC\\Views\\Departments\\Index.cshtml",
+              "ToolTip": "D:\\Projetos\\Projetos C#\\SalesMVC\\SalesMVC\\Views\\Departments\\Index.cshtml",
+              "RelativeToolTip": "SalesMVC\\Views\\Departments\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T17:16:01.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "D:\\Projetos\\Projetos C#\\SalesMVC\\SalesMVC\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "SalesMVC\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "D:\\Projetos\\Projetos C#\\SalesMVC\\SalesMVC\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "SalesMVC\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T17:06:06.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Projetos\\Projetos C#\\SalesMVC\\SalesMVC\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "SalesMVC\\Models\\Department.cs",
+              "ToolTip": "D:\\Projetos\\Projetos C#\\SalesMVC\\SalesMVC\\Models\\Department.cs",
+              "RelativeToolTip": "SalesMVC\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T17:02:21.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Projetos\\Projetos C#\\SalesMVC\\SalesMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SalesMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Projetos\\Projetos C#\\SalesMVC\\SalesMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SalesMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T16:59:26.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 575,
           "SelectedChildIndex": -1,
           "Children": [
             {
