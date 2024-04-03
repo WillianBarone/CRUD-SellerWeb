@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
+      "Id": "D:\\Projetos\\Projetos C#\\SalesMVC\\SalesMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-Flatly.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-Flatly.css"
+    },
+    {
       "Id": "D:\\Projetos\\Projetos C#\\SalesMVC\\SalesMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ImBqEwRICqmHuaCaIJBbEBjhv0qd5VedfNyY5dI/0ZU=",
+  "Hash": "ZaPcPzLe5tOgB+qPUxtM+k2wlnqKkZFKUGmNG39uQBQ=",
   "Source": "SalesMVC",
   "BasePath": "_content/SalesMVC",
   "Mode": "Default",
@@ -262,6 +262,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Identity": "D:\\Projetos\\Projetos C#\\SalesMVC\\SalesMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-Flatly.css",
+      "SourceId": "SalesMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projetos\\Projetos C#\\SalesMVC\\SalesMVC\\wwwroot\\",
+      "BasePath": "_content/SalesMVC",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-Flatly.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-Flatly.css"
     },
     {
       "Identity": "D:\\Projetos\\Projetos C#\\SalesMVC\\SalesMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
