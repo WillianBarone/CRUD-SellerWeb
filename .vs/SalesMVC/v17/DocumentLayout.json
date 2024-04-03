@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\Projetos\\Projetos C#\\SalesMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8476911-1747-4DD4-B41D-B3B411CA8B13}|SalesMVC\\SalesMVC.csproj|d:\\projetos\\projetos c#\\salesmvc\\salesmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B8476911-1747-4DD4-B41D-B3B411CA8B13}|SalesMVC\\SalesMVC.csproj|solutionrelative:salesmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B8476911-1747-4DD4-B41D-B3B411CA8B13}|SalesMVC\\SalesMVC.csproj|d:\\projetos\\projetos c#\\salesmvc\\salesmvc\\migrations\\20240403190821_otherentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8476911-1747-4DD4-B41D-B3B411CA8B13}|SalesMVC\\SalesMVC.csproj|solutionrelative:salesmvc\\migrations\\20240403190821_otherentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8476911-1747-4DD4-B41D-B3B411CA8B13}|SalesMVC\\SalesMVC.csproj|d:\\projetos\\projetos c#\\salesmvc\\salesmvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{B8476911-1747-4DD4-B41D-B3B411CA8B13}|SalesMVC\\SalesMVC.csproj|solutionrelative:salesmvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{B8476911-1747-4DD4-B41D-B3B411CA8B13}|SalesMVC\\SalesMVC.csproj|d:\\projetos\\projetos c#\\salesmvc\\salesmvc\\data\\saleswebmvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8476911-1747-4DD4-B41D-B3B411CA8B13}|SalesMVC\\SalesMVC.csproj|solutionrelative:salesmvc\\data\\saleswebmvccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8476911-1747-4DD4-B41D-B3B411CA8B13}|SalesMVC\\SalesMVC.csproj|d:\\projetos\\projetos c#\\salesmvc\\salesmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8476911-1747-4DD4-B41D-B3B411CA8B13}|SalesMVC\\SalesMVC.csproj|solutionrelative:salesmvc\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8476911-1747-4DD4-B41D-B3B411CA8B13}|SalesMVC\\SalesMVC.csproj|d:\\projetos\\projetos c#\\salesmvc\\salesmvc\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8476911-1747-4DD4-B41D-B3B411CA8B13}|SalesMVC\\SalesMVC.csproj|solutionrelative:salesmvc\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8476911-1747-4DD4-B41D-B3B411CA8B13}|SalesMVC\\SalesMVC.csproj|d:\\projetos\\projetos c#\\salesmvc\\salesmvc\\models\\salesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8476911-1747-4DD4-B41D-B3B411CA8B13}|SalesMVC\\SalesMVC.csproj|solutionrelative:salesmvc\\models\\salesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Projetos\\Projetos C#\\SalesMVC\\SalesMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "SalesMVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Projetos\\Projetos C#\\SalesMVC\\SalesMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "SalesMVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-03T17:50:25.887Z",
+              "Title": "20240403190821_OtherEntities.cs",
+              "DocumentMoniker": "D:\\Projetos\\Projetos C#\\SalesMVC\\SalesMVC\\Migrations\\20240403190821_OtherEntities.cs",
+              "RelativeDocumentMoniker": "SalesMVC\\Migrations\\20240403190821_OtherEntities.cs",
+              "ToolTip": "D:\\Projetos\\Projetos C#\\SalesMVC\\SalesMVC\\Migrations\\20240403190821_OtherEntities.cs",
+              "RelativeToolTip": "SalesMVC\\Migrations\\20240403190821_OtherEntities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T19:08:22.645Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "bootstrap.css",
-              "DocumentMoniker": "D:\\Projetos\\Projetos C#\\SalesMVC\\SalesMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "RelativeDocumentMoniker": "SalesMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "ToolTip": "D:\\Projetos\\Projetos C#\\SalesMVC\\SalesMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "RelativeToolTip": "SalesMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-03T17:46:20.325Z",
+              "Title": "SalesWebMVCContext.cs",
+              "DocumentMoniker": "D:\\Projetos\\Projetos C#\\SalesMVC\\SalesMVC\\Data\\SalesWebMVCContext.cs",
+              "RelativeDocumentMoniker": "SalesMVC\\Data\\SalesWebMVCContext.cs",
+              "ToolTip": "D:\\Projetos\\Projetos C#\\SalesMVC\\SalesMVC\\Data\\SalesWebMVCContext.cs",
+              "RelativeToolTip": "SalesMVC\\Data\\SalesWebMVCContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwBQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T19:04:35.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Projetos\\Projetos C#\\SalesMVC\\SalesMVC\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "SalesMVC\\Models\\Department.cs",
+              "ToolTip": "D:\\Projetos\\Projetos C#\\SalesMVC\\SalesMVC\\Models\\Department.cs",
+              "RelativeToolTip": "SalesMVC\\Models\\Department.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwBgAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T18:40:56.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "D:\\Projetos\\Projetos C#\\SalesMVC\\SalesMVC\\Models\\Seller.cs",
+              "RelativeDocumentMoniker": "SalesMVC\\Models\\Seller.cs",
+              "ToolTip": "D:\\Projetos\\Projetos C#\\SalesMVC\\SalesMVC\\Models\\Seller.cs",
+              "RelativeToolTip": "SalesMVC\\Models\\Seller.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T18:40:54.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SalesRecord.cs",
+              "DocumentMoniker": "D:\\Projetos\\Projetos C#\\SalesMVC\\SalesMVC\\Models\\SalesRecord.cs",
+              "RelativeDocumentMoniker": "SalesMVC\\Models\\SalesRecord.cs",
+              "ToolTip": "D:\\Projetos\\Projetos C#\\SalesMVC\\SalesMVC\\Models\\SalesRecord.cs",
+              "RelativeToolTip": "SalesMVC\\Models\\SalesRecord.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T18:32:14.726Z",
               "EditorCaption": ""
             }
           ]
