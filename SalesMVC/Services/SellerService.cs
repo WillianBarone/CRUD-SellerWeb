@@ -20,8 +20,6 @@ namespace SalesMVC.Services
 
         public void Insert(Seller obj)
         {
-            //Modify this method
-            obj.Department = _context.Department.First();
             _context.Add(obj);
             _context.SaveChanges();
         }
