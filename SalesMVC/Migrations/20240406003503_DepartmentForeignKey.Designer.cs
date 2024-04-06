@@ -12,8 +12,8 @@ using SalesMVC.Data;
 namespace SalesMVC.Migrations
 {
     [DbContext(typeof(SalesWebMVCContext))]
-    [Migration("20240403223016_SeedTest")]
-    partial class SeedTest
+    [Migration("20240406003503_DepartmentForeignKey")]
+    partial class DepartmentForeignKey
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -83,7 +83,7 @@ namespace SalesMVC.Migrations
                     b.Property<DateTime>("BirthDate")
                         .HasColumnType("datetime(6)");
 
-                    b.Property<int>("DepartamentId")
+                    b.Property<int>("DepartmentId")
                         .HasColumnType("int");
 
                     b.Property<string>("Email")
@@ -96,7 +96,7 @@ namespace SalesMVC.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("DepartamentId");
+                    b.HasIndex("DepartmentId");
 
                     b.ToTable("Seller");
                 });
@@ -114,13 +114,13 @@ namespace SalesMVC.Migrations
 
             modelBuilder.Entity("SalesMVC.Models.Seller", b =>
                 {
-                    b.HasOne("SalesMVC.Models.Department", "Departament")
+                    b.HasOne("SalesMVC.Models.Department", "Department")
                         .WithMany("Sellers")
-                        .HasForeignKey("DepartamentId")
+                        .HasForeignKey("DepartmentId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("Departament");
+                    b.Navigation("Department");
                 });
 
             modelBuilder.Entity("SalesMVC.Models.Department", b =>
