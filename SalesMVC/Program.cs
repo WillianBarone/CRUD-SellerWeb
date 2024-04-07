@@ -5,6 +5,7 @@ using SalesMVC.Models;
 using SalesMVC.Services;
 using System.Globalization;
 using Microsoft.AspNetCore.Localization;
+using SalesWebMvc.Services;
 
 
 
@@ -19,6 +20,7 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<SeedingService>();
 builder.Services.AddScoped<SellerService>();
 builder.Services.AddScoped<DepartmentService>();
+builder.Services.AddScoped<SalesRecordService>();
 
 var enUS = new CultureInfo("en-US");
 var localizationOptions = new RequestLocalizationOptions

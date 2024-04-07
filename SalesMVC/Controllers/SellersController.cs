@@ -1,6 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Microsoft.DotNet.Scaffolding.Shared.Messaging;
-using Microsoft.EntityFrameworkCore;
 using SalesMVC.Models;
 using SalesMVC.Models.ViewModels;
 using SalesMVC.Services;
@@ -145,7 +143,6 @@ namespace SalesMVC.Controllers
         {
             var viewModel = new ErrorViewModel
             {
-                //Message = message,
                 RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier
             };
             return View(viewModel);
