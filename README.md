@@ -1,5 +1,6 @@
 Projeto CRUD em C#
-Este é um projeto de exemplo de um aplicativo CRUD (Create, Read, Update, Delete) desenvolvido em C# utilizando o padrão de arquitetura MVC (Model-View-Controller).
+Este é um projeto de exemplo de um aplicativo CRUD (Create, Read, Update, Delete) desenvolvido em C#
+utilizando o padrão de arquitetura MVC (Model-View-Controller).
 Ele foi criado com o objetivo de demonstrar como criar operações básicas de um sistema de gerenciamento de dados.
 
 Funcionalidades
@@ -9,6 +10,6 @@ Funcionalidades
 • Uso de LINQ: Foi utilizado LINQ (Language Integrated Query) para consultas no banco de dados de forma mais simples e eficaz.
 
 Pré-requisitos
-•Visual Studio (ou outro IDE compatível com C#)
-•MySQL Server
-•.NET Framework 4.5 ou superior
+• Visual Studio (ou outro IDE compatível com C#)
+• MySQL Server
+• .NET Framework 4.5 ou superior
