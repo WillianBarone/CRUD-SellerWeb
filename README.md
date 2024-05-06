@@ -1,5 +1,4 @@
-Sistema de Gerenciamento (CRUD) em C#
-Este é um projeto de sistema de gerenciamento desenvolvido em C# utilizando o padrão de arquitetura MVC (Model-View-Controller). O sistema oferece operações CRUD (Create, Read, Update, Delete) para gerenciar departamentos e vendedores, além de funcionalidades de pesquisa.
+Este é um projeto de sistema de gerenciamento desenvolvido em C# utilizando o padrão de arquitetura MVC. O sistema oferece operações CRUD para gerenciar departamentos e vendedores, além de funcionalidades de pesquisa.
 
 Funcionalidades
 CRUD: O sistema oferece operações básicas de criação, leitura, atualização e exclusão de registros para departamentos e vendedores.
